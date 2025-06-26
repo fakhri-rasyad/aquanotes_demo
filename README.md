@@ -8,13 +8,32 @@ Aplikasi ini merupakan kerjasama dengan Abdul Salam Achmad, selaku Founder & CEO
 
 ## 📱 Pratinjau Aplikasi
 
-![Tampilan Splash](preview/input_divais.png)
-![Tampilan Home](preview/splash_preview.png)
-![Tampilan Input Kolam](preview/input_kolam.png)
-![Tampilan Input Divais](preview/input_kolam.png)
-![Tampilan Monitoring Tambak](preview/monitor_tambak.png)
-![Tampilan Monitoring Kolam](preview/monitor_kolam.png)
-![Tampilan Monitoring Divais](preview/monitor_divais.png)
+<table>
+  <tr>
+    <td><img src="preview/splash_preview.png" width="250"/></td>
+    <td><img src="preview/input_divais.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Splash</td>
+    <td align="center">Input Divais</td>
+  </tr>
+  <tr>
+    <td><img src="preview/input_kolam.png" width="250"/></td>
+    <td><img src="preview/monitor_tambak.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Input Kolam</td>
+    <td align="center">Monitoring Tambak</td>
+  </tr>
+  <tr>
+    <td><img src="preview/monitor_kolam.png" width="250"/></td>
+    <td><img src="preview/monitor_divais.png" width="250"/></td>
+  </tr>
+  <tr>
+    <td align="center">Monitoring Kolam</td>
+    <td align="center">Monitoring Divais</td>
+  </tr>
+</table>
 
 ---
 
